@@ -8,7 +8,8 @@
     </b-row>
 
     <b-row class="mt-5 d-flex justify-content-center" v-if="selectedCountry === 'MYS' ">
-        Yeayy!!!
+        Yeayy Malaysia!!!
+        #kitajagakita
     </b-row>
 
     <b-row class="mt-5 d-flex justify-content-center">
